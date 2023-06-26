@@ -1,0 +1,1 @@
+alert('You have guessed the word! GG!!');
