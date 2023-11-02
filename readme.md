@@ -1,6 +1,7 @@
 
 ## Hangman Game
 DEMO: http://www.manticore.uni.lodz.pl/~mkasperk/hangman_php/
+\
 The aim of the project is to provide users with entertainment through word guessing. The application will allow users to play rounds of Hangman on their browsers. The application should have a login and registration form, as well as a coin system that allows users to earn and use coins to purchase hints. Coins will be earned based on correctly guessed words. The application will allow users to choose the difficulty level, enabling each player to adjust the game to their skill level. Additionally, logged-in users will have the ability to add new words to the database. This way, the application will be continuously developed and supplemented with new vocabulary.
 
 ## Installation
